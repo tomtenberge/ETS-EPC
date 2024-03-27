@@ -7,6 +7,11 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ETS EPC", "ETS EPC\ETS EPC.
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ETS EPC Editor", "ETS EPC Editor\ETS EPC Editor.vbproj", "{BC29F77A-A58C-469F-A0BE-99ACAA6E2E6D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{27F47F7D-6993-4C7A-AEAA-1D83835B47DE}"
+	ProjectSection(SolutionItems) = preProject
+		ETS EPC.json = ETS EPC.json
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
